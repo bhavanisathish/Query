@@ -1,1 +1,1 @@
-The starting page of the site is student.php
+The starting page of the site is index.php
